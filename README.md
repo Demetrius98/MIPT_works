@@ -1,1 +1,1 @@
-# MIPT_works
+# MIPTworks
